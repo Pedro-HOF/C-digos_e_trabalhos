@@ -1,0 +1,22 @@
+#bg-index10 {
+    background-color: lightblue;
+}
+#bg-dadospessoais10 {
+    background-color: lightgreen;
+}
+#bg-formacao10 {
+    background-color: lightseagreen;
+}
+#bg-experiencias10 {
+    background-color: lightgray;
+}
+h1 {
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+p {
+    color: black;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
